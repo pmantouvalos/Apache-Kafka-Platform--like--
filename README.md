@@ -1,6 +1,6 @@
 🌟 Advanced Apache Kafka Cluster Management 🌟
 
-Discover the advanced Apache Kafka management system I developed, which enables efficient and reliable management of brokers, topics, and clients. This system is ideal for handling large-scale data streams effectively.
+Discover the advanced Apache Kafka management system I developed in Java, which enables efficient and reliable management of brokers, topics, and clients. This system is ideal for handling large-scale data streams effectively.
 
 🔑 Key Components:
 
